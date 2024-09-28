@@ -1,6 +1,5 @@
 Welcome to myproject
 
 
-Author= Thomas
-
-twitter:@anilboyapati
+Author= Thomas Huber
+@twitter
