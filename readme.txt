@@ -1,6 +1,6 @@
 Welcome to myproject
 
 
-Author= Thomas
+Author= Thomas, Boyapati
 
 twitter:@anilboyapati
